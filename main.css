@@ -1,0 +1,20 @@
+body {
+  background: #3B1261
+}
+
+div {
+  width: 70%;
+  margin: auto;
+  border-radius: 10px;
+  margin-top: 15%;
+}
+
+img {
+  width: 50px;
+  margin-left: 5%;
+}
+
+button {
+  float: right;
+  margin-right: 5%;
+}
